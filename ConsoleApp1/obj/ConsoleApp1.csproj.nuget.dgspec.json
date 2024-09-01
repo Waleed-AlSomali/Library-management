@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\walee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\Users\\walee\\Documents\\SDA C#\\Week 3\\library-management\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\walee\\AppData\\Roaming\\NuGet\\NuGet.Config"
